@@ -1,0 +1,37 @@
+# ================================
+# R / RStudio
+# ================================
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+
+# ================================
+# Operating system files
+# ================================
+
+.DS_Store
+Thumbs.db
+
+
+# ================================
+# Temporary / log files
+# ================================
+
+*.tmp
+*.temp
+*.log
+
+
+# ================================
+# Analysis output directories
+# ================================
+
+output/
+outputs/
+results/
